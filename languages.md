@@ -3,7 +3,7 @@
 This file contains resources to learn languages of the world. Best use <kbd>Cmd</kbd> + <kbd>F</kbd> (or <kbd>Ctrl</kbd> + <kbd>F</kbd>) and then search for the language you want to learn to locate the resource.
 
 * [Multi-language resources](#multi)
-* English
+* [English](#english)
 * Japanese
 * [Sanskrit](#sanskrit)
 
@@ -18,6 +18,15 @@ Duolingo is a popular web and mobile app to learn most languages. If you want on
 Website - https://www.duolingo.com/
 
 [![duolingo website](https://user-images.githubusercontent.com/4047597/66025579-706fea00-e514-11e9-855d-e935229432ac.png)](https://duolingo.com)
+
+
+## English
+
+English is a very popular West Germanic language that was first spoken in early medieval England and eventually became a global lingua franca.
+
+Website - https://www.talkenglish.com/
+
+[![english](https://user-images.githubusercontent.com/41269164/69905456-b0026780-13d9-11ea-88ce-dbd4213f5604.PNG)](https://talkenglish.com)
 
 
 ## Sanskrit
