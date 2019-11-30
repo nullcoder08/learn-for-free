@@ -22,7 +22,7 @@ Website - https://www.duolingo.com/
 
 ## English
 
-English is a very popular West Germanic language that was first spoken in early medieval England and eventually became a global lingua franca.
+Our goal is to help you Learn English speaking so you can speak English fluently.Improve your spoken English Free!
 
 Website - https://www.talkenglish.com/
 
