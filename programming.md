@@ -18,7 +18,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [JavaScript](#javascript)
 * [Django](#django)
 * [Python](#python)
-* Ruby
+* [Ruby](#ruby)
 
 
 ## Android Development
@@ -145,4 +145,20 @@ This is easy to grasp highly rated Python tutorial on Youtube. All concepts are 
 Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 [![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
+## Ruby
+
+### Ruby in 20 minutes
+Ruby in 20 minutes is a small tutorial that teaches the basics of Ruby programming language. This tutorial is created by the official development team of Ruby. It is well-suited for beginners to start with Ruby. By the end of this tutorial, you will be able to create a fully functional web application. This tutorial is completely free and open-source.
+Some of the key topics included in this tutorial are as follows:
+    1. Introduction
+    2. Functions
+    3. Classes and objects
+    4. Variables
+    
+Website - https://www.ruby-lang.org/en/documentation/quickstart/
+
+[![Ruby in 20 minutes](https://user-images.githubusercontent.com/42384542/69919084-2b7a1c80-149f-11ea-9d2a-e29af91feb71.png)](https://www.ruby-lang.org/en/documentation/quickstart/)
+
+
 
