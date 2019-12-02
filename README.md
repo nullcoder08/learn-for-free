@@ -40,7 +40,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [JavaScript](programming.md#javascript)
 	* [Python](programming.md#python)
 	* [Django](programming.md#django)
-	* Ruby
+	* [Ruby](programming.md#ruby)
 * [Security](security.md)
 	* Cryptography
 	* [Ethical Hacking](security.md#ethical-hacking)
