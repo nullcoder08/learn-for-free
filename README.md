@@ -24,7 +24,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [3D Graphics](graphics.md#3d-graphics)
 * [Languages](languages.md)
 	* [Multi-language resources](languages.md#multi)
-	* English
+	* [English](languages.md#english)
 	* Japanese
 	* [Sanskrit](languages.md#sanskrit)
 * [Marketing](marketing.md)
