@@ -12,7 +12,7 @@ This file contains resources to learn about Data Science and its sub fields.
 
 ### Computer Vision with OpenCV Library Using Python
 
-This is free tutorial designed for who want to learn how to use the OpenCV library, own image face detection program. Learn how to use different tools of image filtering with the OpenCV library.
+This is a free tutorial designed for those who want to learn how to use the OpenCV library, make image face detection programs and learn how to use different tools of image filtering with the OpenCV library.
 
 Website - https://www.udemy.com/course/pythoncv/
 
