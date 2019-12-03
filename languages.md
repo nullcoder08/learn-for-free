@@ -20,13 +20,13 @@ Website - https://www.duolingo.com/
 [![duolingo website](https://user-images.githubusercontent.com/4047597/66025579-706fea00-e514-11e9-855d-e935229432ac.png)](https://duolingo.com)
 
 
-## English
+### English
 
-Our goal is to help you Learn English speaking so you can speak English fluently.Improve your spoken English Free!
+Learn free english tutorial and improve your communication skills in english.
 
-Website - https://www.talkenglish.com/
+Youtube - https://www.youtube.com/watch?v=GfnDN4BciWM&list=PL6zKLAqTq5pdITaAgoB_mMuVbXL-qnJjf
 
-[![english](https://user-images.githubusercontent.com/41269164/69905456-b0026780-13d9-11ea-88ce-dbd4213f5604.PNG)](https://talkenglish.com)
+[![english](https://user-images.githubusercontent.com/41269164/70046238-a2243080-15eb-11ea-8de6-e5c00e75cc9b.PNG)](https://www.evidyarthi.in/english/english-grammar)
 
 
 ## Sanskrit
