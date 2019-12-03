@@ -22,7 +22,7 @@ Website - https://www.duolingo.com/
 
 ### English
 
-Learn free english tutorial and improve your communication skills in english.
+Learn english for free from these youtube tutorials and improve your communication skills in english.
 
 Youtube - https://www.youtube.com/watch?v=GfnDN4BciWM&list=PL6zKLAqTq5pdITaAgoB_mMuVbXL-qnJjf
 
