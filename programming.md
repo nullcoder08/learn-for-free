@@ -58,6 +58,13 @@ Website - https://internetingishard.com/html-and-css/
 
 [![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
+### w3schools
+
+W3Schools is an educational website for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, React.js, SQL, Bootstrap, Sass, Node.js, jQuery, XQuery, AJAX, XML, Raspberry Pi, C++, and Java.
+
+Website - https://www.w3schools.com/
+
+[![w3schools](https://user-images.githubusercontent.com/43781668/70112576-c0397180-167b-11ea-9434-bae0cd03e539.jpg)](https://www.w3schools.com/)
 
 ## Java
 
