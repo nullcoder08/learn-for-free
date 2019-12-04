@@ -69,6 +69,13 @@ Website - https://www.udemy.com/course/java-tutorial/
 
 [![Java for Complete Beginners - John Purcell](https://user-images.githubusercontent.com/51238282/66408079-e8a24800-ea0b-11e9-916e-658dc4848039.png)](https://www.udemy.com/course/java-tutorial/)
 
+### CodeGym
+
+CodeGym is an online Java programming course consisting of 80% practice.With many hands on pratice section it is totally self-paced course.If you want to try an interactive and fun tutorial to learn Java then go for this.
+
+Website - https://codegym.cc/
+
+[![codegym](https://user-images.githubusercontent.com/43781668/70111915-c2023580-1679-11ea-8d93-6a58a314d3c3.jpg)](https://codegym.cc/)
 
 ## JavaScript
 
