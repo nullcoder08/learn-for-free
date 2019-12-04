@@ -78,7 +78,7 @@ Website - https://www.udemy.com/course/java-tutorial/
 
 ### CodeGym
 
-CodeGym is an online Java programming course consisting of 80% practice.With many hands on pratice section it is totally self-paced course.If you want to try an interactive and fun tutorial to learn Java then go for this.
+CodeGym is an online Java programming course consisting of 80% practice. It teaches about Java syntax, Java core, Java Multithreading, Java collections in the form of an interactive quest. It also teaches about the basics of development in java by making some java games step-by-step. It even has many blogs that help to clear concepts about a particular topic.
 
 Website - https://codegym.cc/
 
