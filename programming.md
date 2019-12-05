@@ -42,6 +42,15 @@ Website - https://learn.freecodecamp.org/
 
 [![free-code-camp curriculum](https://user-images.githubusercontent.com/4047597/66046080-a3c96d80-e542-11e9-8e6a-56c6b70b24fb.png)](https://learn.freecodecamp.org/)
 
+### The Odin Project => Web Development 101
+
+A hands-on introduction to all of the essential tools you'll need to build real, working websites. You'll learn what web developers actually do – the foundations you'll need for later courses.
+
+Website - https://www.theodinproject.com/courses/web-development-101
+
+![Screenshot (1067)](https://user-images.githubusercontent.com/52423075/70233037-c87cd400-1783-11ea-997f-67278e14ef56.png)
+
+
 ### Intro to HTML and CSS by Udacity
 
 Learn HTML and CSS from a free, premium video course by Udacity. 
