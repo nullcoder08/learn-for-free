@@ -6,7 +6,7 @@ This files contains resources for marketing. The [Digital Marketing](#digital-ma
 * [Copywriting](#copywriting)
 * [Digital Marketing](#digital-marketing)
 * Email marketing
-* Facebook Ads
+* [Facebook Ads](#facebook-ads)
 
 
 ## Content Marketing
@@ -44,3 +44,14 @@ A course designed by Google to help you understand the basic concepts of Digital
 Website - https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
 
 [![Fundamentals of Digital Marketing](https://user-images.githubusercontent.com/28767301/66247545-55cb8a00-e73b-11e9-9768-bc4ee3f2379a.png)](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
+
+
+## Facebook Ads
+
+This is a free tutorial designed for those who want to learn how you can be an expert doing Facebook Advertising using this Facebook Ads.
+
+### The Ultimate Facebook Ads MASTERY Course
+
+website - https://www.udemy.com/
+
+[![Screenshot_20191204_145732](https://user-images.githubusercontent.com/41269164/70131081-b463a480-16a7-11ea-9c55-08f4d554d78a.jpg)](https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/learn/lecture/16706324?start=2505#overview)
