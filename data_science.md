@@ -2,7 +2,7 @@
 
 This file contains resources to learn about Data Science and its sub fields.
 
-* [Classical Machine Learning](#machine-learning)
+* [Machine Learning](#machine-learning)
 * [Computer Vision](#computer-vision)
 * [Deep Learning](#deep-learning)
 * Natural Language Processing 
