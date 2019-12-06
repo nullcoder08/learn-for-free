@@ -40,4 +40,4 @@ This is an amazing tutorial if you are thinking to get started with machine lear
 
 Website - https://www.coursera.org/learn/machine-learning
 
-[![machinelearning](https://i.imgur.com/b4ovIry.png)](https://www.coursera.org/learn/machine-learning)
+[![machinelearning](https://user-images.githubusercontent.com/38592928/70347232-1974f100-1886-11ea-8d8f-b29891d9e0eb.png)](https://www.coursera.org/learn/machine-learning)
