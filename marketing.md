@@ -6,8 +6,7 @@ This files contains resources for marketing. The [Digital Marketing](#digital-ma
 * [Copywriting](#copywriting)
 * [Digital Marketing](#digital-marketing)
 * [Email marketing](#email-marketing)
-* Facebook Ads
-
+* [Facebook Ads](#facebook-ads)
 
 ## Content Marketing
 
@@ -55,3 +54,15 @@ This tutorial has been designed for all those readers, who want to learn the bas
 Website - https://www.tutorialspoint.com/email_marketing/
 
 [![emailmarket](https://user-images.githubusercontent.com/41269164/70084728-dcfe8680-1634-11ea-99b7-5399d262140f.PNG)](https://www.tutorialspoint.com/email_marketing/index.htm)
+
+
+## Facebook Ads
+
+This is a free tutorial designed for those who want to learn how you can be an expert doing Facebook Advertising using this Facebook Ads.
+
+### The Ultimate Facebook Ads MASTERY Course
+
+website - https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/
+
+[![image](https://user-images.githubusercontent.com/41269164/70538857-c7cfad80-1b88-11ea-9e8e-90359e57a941.png)](https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/learn/lecture/16706324?start=2505#overview)
+
