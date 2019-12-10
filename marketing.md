@@ -52,6 +52,6 @@ This is a free tutorial designed for those who want to learn how you can be an e
 
 ### The Ultimate Facebook Ads MASTERY Course
 
-website - https://www.udemy.com/
+website - https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/
 
 [![image](https://user-images.githubusercontent.com/41269164/70538857-c7cfad80-1b88-11ea-9e8e-90359e57a941.png)](https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/learn/lecture/16706324?start=2505#overview)
