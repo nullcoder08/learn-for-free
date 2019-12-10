@@ -54,4 +54,4 @@ This is a free tutorial designed for those who want to learn how you can be an e
 
 website - https://www.udemy.com/
 
-[![Screenshot_20191204_145732](https://user-images.githubusercontent.com/41269164/70131081-b463a480-16a7-11ea-9c55-08f4d554d78a.jpg)](https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/learn/lecture/16706324?start=2505#overview)
+[![image](https://user-images.githubusercontent.com/41269164/70538857-c7cfad80-1b88-11ea-9e8e-90359e57a941.png)](https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/learn/lecture/16706324?start=2505#overview)
