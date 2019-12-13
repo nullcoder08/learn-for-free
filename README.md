@@ -41,6 +41,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [Python](programming.md#python)
 	* [Django](programming.md#django)
 	* [Ruby](programming.md#ruby)
+	* [Data Structures](programming.md#DS)
 * [Security](security.md)
 	* [Cryptography](security.md#cryptography)
 	* [Ethical Hacking](security.md#ethical-hacking)
