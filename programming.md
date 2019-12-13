@@ -200,5 +200,4 @@ Some key topics which you are going to learn are :
 
 Website - https://www.edx.org/course/algorithms-and-data-structures
 
-[![Algorithms and Data Structures](https://www.youtube.com/watch?time_continue=1&v=b3bp-_k2M9w&feature=emb_logo)]
-(https://www.edx.org/course/algorithms-and-data-structures)
+[![Algorithms and Data Structures](https://user-images.githubusercontent.com/46001986/70780709-2aa08f00-1dab-11ea-9749-71614d665851.png)](https://www.edx.org/course/algorithms-and-data-structures)
