@@ -5,7 +5,7 @@ This file contains resources to learn about Data Science and its sub fields.
 * [Machine Learning](#machine-learning)
 * [Computer Vision](#computer-vision)
 * [Deep Learning](#deep-learning)
-* Natural Language Processing 
+* [Natural Language Processing](#natural-language-processing)
 * Reinforcement Learning
 
 ## Computer Vision
@@ -41,3 +41,14 @@ This is an amazing tutorial if you are thinking to get started with machine lear
 Website - https://www.coursera.org/learn/machine-learning
 
 [![machinelearning](https://user-images.githubusercontent.com/38592928/70347232-1974f100-1886-11ea-8d8f-b29891d9e0eb.png)](https://www.coursera.org/learn/machine-learning)
+
+
+## Natural Language Processing
+
+### Natural Language Processing from Coursera
+
+This is the tutorial which help you to get started with Natural Language Processing. It will help you to take your machine learning skills a level up.
+
+Website - https://www.coursera.org/learn/language-processing
+
+[![nlp](https://user-images.githubusercontent.com/38592928/70733708-d953b980-1d30-11ea-9ed8-98656d4c7a54.png)](https://www.coursera.org/learn/language-processing)
