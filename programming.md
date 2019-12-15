@@ -187,12 +187,8 @@ Website - https://www.ruby-lang.org/en/documentation/quickstart/
 ## DATA STRUCTURES
 
 ### Algorithms and Data Structures
-Learning data structures is really important as a programmer as they are extensively used and are important for any coding interviews as well. This course allows you to grasp some of the basic data structures easily and for free and if you want you can prove your command over these data structures by going for the MICROSOFT certification as well !!
-
+Learning data structures is really important as a programmer as they are extensively used and are important for any coding interviews as well. This course allows you to grasp some of the basic data structures easily and for free.
 In this course you can easily go underneath the hood of functional algorithms and data structures, and see how they work and how to compare them. Plus, get the details on when and how to use them. 
-
-In this real-world-tested curriculum, take a look at famous algorithms and equations, and see how yours stack up. See practical demos, compare “life scenarios” to their coding counterparts, and create an app for your final project.
-Add to your developer toolkit with this in-depth exploration of algorithms and data structures.
 Some key topics which you are going to learn are : 
     1. Algorithmic analysis
     2. Sorting and searching algorithms
