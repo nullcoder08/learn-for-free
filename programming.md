@@ -3,7 +3,7 @@
 This file contains resources to learn programming and software development. This file is divided into 2 parts - Goal-Oriented and General Purpose. 
 
 1. Goal-Oriented resources teach you to deliver an output like making a website or an app. 
-2. General Purpose resources teach you a particular language like Python or JavaScript.
+2. General Purpose resources teach you a particular language like Python or JavaScript and they also teach you about the general data structures which every programmer should know.
 
 A Goal-Oriented listing has higher priority so if a resource falls in both general purpose and goal-oriented, it automatically goes in goal-oriented and is not duplicated.
 
@@ -19,6 +19,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [Django](#django)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Data Structures](#DS)
 
 
 ## Android Development
@@ -183,5 +184,16 @@ Website - https://www.ruby-lang.org/en/documentation/quickstart/
 
 [![Ruby in 20 minutes](https://user-images.githubusercontent.com/42384542/69919084-2b7a1c80-149f-11ea-9d2a-e29af91feb71.png)](https://www.ruby-lang.org/en/documentation/quickstart/)
 
+## DATA STRUCTURES
 
+### Algorithms and Data Structures
+Learning data structures is really important as a programmer as they are extensively used and are important for any coding interviews as well. This course allows you to grasp some of the basic data structures easily and for free.
+In this course you can easily go underneath the hood of functional algorithms and data structures, and see how they work and how to compare them. Plus, get the details on when and how to use them. 
+Some key topics which you are going to learn are : 
+    1. Algorithmic analysis
+    2. Sorting and searching algorithms
+    3. Basic data structures like Stack, Queue, Linked Lists
 
+Website - https://www.edx.org/course/algorithms-and-data-structures
+
+[![Algorithms and Data Structures](https://user-images.githubusercontent.com/46001986/70781945-46586500-1dac-11ea-8f69-6f2c4f0a3447.png)](https://www.edx.org/course/algorithms-and-data-structures)
