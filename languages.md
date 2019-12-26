@@ -38,3 +38,14 @@ A simple app that teaches from root words to more complex words. This is not a c
 Play Store - https://play.google.com/store/apps/details?id=com.learnsanskrit
 
 [![screenshot of learn sanskrit app](https://user-images.githubusercontent.com/4047597/66036406-c3549c00-e52a-11e9-8acd-8a95a1cc736e.jpg)](https://play.google.com/store/apps/details?id=com.learnsanskrit)
+
+
+## Telugu
+
+### Learn Telugu through English
+
+Learn to pronounce simple words / sentences in telugu for non-native speakers. 
+
+Website - https://www.youtube.com/playlist?list=PLsRjuO3afXH26VrV1zsYW9E1By1aXlhPh
+
+[![Learn Telugu](https://user-images.githubusercontent.com/56720863/71461894-83265200-27d7-11ea-99aa-c1c79c39e4c3.PNG)](https://www.youtube.com/playlist?list=PLsRjuO3afXH26VrV1zsYW9E1By1aXlhPh)
