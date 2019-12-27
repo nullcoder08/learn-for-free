@@ -14,6 +14,10 @@ This project aims to contain free learning resources for all topics you can thin
 	* [Deep Learning](data_science.md#deep-learning)
 	* [Natural Language Processing](data_science.md#natural-language-processing)
 	* Reinforcement Learning
+* [UI/UX Design](design.md)
+	* [Podcasts](design.md#podcast)
+	* [UX Tools](design.md#ux-design-tools)
+	* [Icons](design.md#icons)
 * [Finance](finance.md)
 	* [Economics](finance.md#economics)
 	* Investing
