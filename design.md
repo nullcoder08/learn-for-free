@@ -2,7 +2,7 @@
 
 This file contains resources to learn about Ux Design.
 
-* [Podcasts](#podcast)
+* [Podcasts](#podcasts)
 * [UX Tools](#ux-tools)
 
 ## Podcasts
