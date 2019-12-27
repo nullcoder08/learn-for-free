@@ -16,8 +16,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* Reinforcement Learning
 * [UI/UX Design](design.md)
 	* [Podcasts](design.md#podcast)
-	* [UX Tools](design.md#ux-design-tools)
-	* [Icons](design.md#icons)
+	* [UX Tools](design.md#ux-tools)
 * [Finance](finance.md)
 	* [Economics](finance.md#economics)
 	* Investing
