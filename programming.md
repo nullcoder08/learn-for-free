@@ -170,6 +170,16 @@ Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 [![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
+
+### Python Tutorial for Beginners by Telusko
+
+Learn the basics of python programming in a lucid way. Suitable for beginners who want to learn basics of Python programming language. 
+
+Website -https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+
+[![telusko python](https://user-images.githubusercontent.com/56720863/71554340-ee745c00-2a43-11ea-9dfe-6c4904e34264.PNG)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+
+
 ## Ruby
 
 ### Ruby in 20 minutes
