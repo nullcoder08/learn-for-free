@@ -22,6 +22,18 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [Data Structures](#DS)
 
 
+# What is Programming??
+
+Before talking about various programming languages, it's wise you get a hint on what programming itself is all about and the variousways to go about it.
+This resource helps simplyfy that for you.
+
+Here is a free course from Udacity that simplyfies that.
+
+Website - https://www.udacity.com/course/what-is-programming--ud994
+
+[![What is Programming?](https://user-images.githubusercontent.com/39289592/71638845-3e813780-2c6b-11ea-8904-82f8a8504519.png)](https://www.udacity.com/course/what-is-programming--ud994)
+
+
 ## Android Development
 
 ### Vogella's Android Tutorials
