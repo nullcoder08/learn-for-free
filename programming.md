@@ -162,6 +162,14 @@ Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXk
 
 ## Python
 
+### Introduction to Python Programming by Udacity
+
+This is a free well explained and very simple introductory course to Python. It's taught by very interesting teaches and has several examples and questions to help you test the skills you just learned.
+
+Website -https://www.udacity.com/course/introduction-to-python--ud1110
+
+[![Introduction to Python Programming](https://user-images.githubusercontent.com/39289592/71638707-8dc56900-2c67-11ea-9954-d243d68b0b42.png)](https://www.udacity.com/course/introduction-to-python--ud1110)
+
 ### Python for Beginners by Mosh Hamedani 
 
 This is easy to grasp highly rated Python tutorial on Youtube. All concepts are explained in crystal clear manner suitable for beginners. In later half, it also dives into 3 practical projects which helps in assimilating all the learning throughout.
