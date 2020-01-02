@@ -48,13 +48,23 @@ Website - https://www.vogella.com/tutorials/android.html
 
 ## Game Development
 
-### HTML5 Game Development
+### HTML5 Game Development | HTML5
 
 This website hosts various tutorials on making games using HTML5 language. Users can also test demos of the games.
 
 Website - http://html5gamedevelopment.com/category/html5-game-dev-tutorials/
 
 [![html5gd](https://user-images.githubusercontent.com/31771552/71680399-01728d80-2db0-11ea-92b7-bedc8291aaaa.png)](http://html5gamedevelopment.com/category/html5-game-dev-tutorials/)
+
+### The Cherno - Game Programming | Java
+
+This is a playlist of game programming tutorial in Java Programming language.
+
+Link: https://www.youtube.com/watch?v=GFYT7Lqt1h8&list=PLlrATfBNZ98c-CeNT-q_Z7ox3R_eIkF98
+
+[![chermogp](https://user-images.githubusercontent.com/31771552/71681128-e56feb80-2db1-11ea-9cda-9f08a6066448.png)](https://www.youtube.com/watch?v=GFYT7Lqt1h8&list=PLlrATfBNZ98c-CeNT-q_Z7ox3R_eIkF98)
+
+
 
 ## Web Development
 
