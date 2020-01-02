@@ -38,7 +38,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* Facebook Ads
 * [Programming](programming.md)
 	* [Android Development](programming.md#android-development)
-	* [Game Development]((programming.md#game-development)
+	* [Game Development](programming.md#game-development)
 	* [Web Development](programming.md#web-development)
 	* [Java](programming.md#java)
 	* [JavaScript](programming.md#javascript)
