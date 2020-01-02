@@ -164,7 +164,7 @@ Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXk
 
 ### Introduction to Python Programming by Udacity
 
-This is a free well explained and very simple introductory course to Python. It's taught by very interesting teaches and has several examples and questions to help you test the skills you just learned.
+This is a free well explained and a very simple introductory course to Python. It's taught by very interesting teachers and has several examples and questions to help you test the skills you just learned.
 
 Website -https://www.udacity.com/course/introduction-to-python--ud1110
 
