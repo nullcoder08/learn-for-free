@@ -48,6 +48,14 @@ Website - https://www.vogella.com/tutorials/android.html
 
 ## Game Development
 
+### HTML5 Game Development
+
+This website hosts various tutorials on making games using HTML5 language. Users can also test demos of the games.
+
+Website - http://html5gamedevelopment.com/category/html5-game-dev-tutorials/
+
+[![html5gd](https://user-images.githubusercontent.com/31771552/71680399-01728d80-2db0-11ea-92b7-bedc8291aaaa.png)](http://html5gamedevelopment.com/category/html5-game-dev-tutorials/)
+
 ## Web Development
 
 ### FreeCodeCamp Web Development curriculum
