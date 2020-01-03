@@ -24,6 +24,15 @@ Website - https://www.cybrary.it/
 
 [![cybrary.it](https://user-images.githubusercontent.com/34170205/70127502-2dabc900-16a1-11ea-9e5a-f2090fb7c29e.png)](https://www.cybrary.it/)
 
+### sqlmap
+
+It is an open source penetration testing tool exploiting SQL injection flaws and taking over database servers. Supports a very rich set of features.
+
+Website - http://sqlmap.org/
+
+[![sqlmap](https://user-images.githubusercontent.com/31771552/71677433-d7699d00-2da8-11ea-899c-feeb05a66d2a.png)](http://sqlmap.org/)
+
+
 ## Cryptography
 
 ### Learn Cryptography
