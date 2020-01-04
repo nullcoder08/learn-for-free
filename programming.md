@@ -46,6 +46,21 @@ Website - https://www.vogella.com/tutorials/android.html
 [![vogella android resources screenshot](https://user-images.githubusercontent.com/4047597/66122279-ed768e80-e5fc-11e9-9beb-e57d51e04b33.png)](https://www.vogella.com/tutorials/android.html)
 
 
+### Android Basics course list by Udacity for Beginners
+
+This course is designed for students who are new to programming, and want to learn how to build Android apps. If you’re curious about the road even farther ahead, these are the free courses that make up the Android Basics Nanodegree, in order:
+
+Android Basics: User Interface (This Course)
+Android Basics: User Input
+Android Basics: Multiple App Screens
+Android Basics: Networking
+Android Basics: Data Storage
+
+Website -https://www.udacity.com/course/android-basics-user-interface--ud834
+
+[![AndroidBasics](https://user-images.githubusercontent.com/56720863/71765312-0d2d9380-2f19-11ea-9a05-8251c0b2b673.PNG)](https://www.udacity.com/course/android-basics-user-interface--ud834)
+
+
 ## Game Development
 
 ### HTML5 Game Development | HTML5
