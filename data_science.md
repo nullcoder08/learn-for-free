@@ -6,7 +6,7 @@ This file contains resources to learn about Data Science and its sub fields.
 * [Computer Vision](#computer-vision)
 * [Deep Learning](#deep-learning)
 * [Natural Language Processing](#natural-language-processing)
-* [Reinforcement Learning](#Reinforcement Learning)
+* [Reinforcement Learning](#Reinforcement-Learning)
 
 ## Computer Vision
 
