@@ -6,7 +6,7 @@ This file contains resources to learn about Data Science and its sub fields.
 * [Computer Vision](#computer-vision)
 * [Deep Learning](#deep-learning)
 * [Natural Language Processing](#natural-language-processing)
-* Reinforcement Learning
+* [Reinforcement Learning](#Reinforcement Learning)
 
 ## Computer Vision
 
@@ -52,3 +52,15 @@ This is the tutorial which help you to get started with Natural Language Process
 Website - https://www.coursera.org/learn/language-processing
 
 [![nlp](https://user-images.githubusercontent.com/38592928/70733708-d953b980-1d30-11ea-9ed8-98656d4c7a54.png)](https://www.coursera.org/learn/language-processing)
+
+## Reinforcement Learning
+### Deep Reinforcement Learning course from Udacity.
+
+An amazing course for people working in this field to dive deep into deep learning with easy to understand curriculum.
+
+Website - https://www.udacity.com/course/reinforcement-learning--ud600
+
+[![rl](https://user-images.githubusercontent.com/43048913/71780943-c90cc280-2fee-11ea-9baa-503fada296d5.png)](https://www.udacity.com/course/reinforcement-learning--ud600)
+
+
+
