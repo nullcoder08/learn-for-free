@@ -51,10 +51,10 @@ Website - https://www.vogella.com/tutorials/android.html
 This course is designed for students who are new to programming, and want to learn how to build Android apps. If you’re curious about the road even farther ahead, these are the free courses that make up the Android Basics Nanodegree, in order:
 
 1. Android Basics: User Interface (This Course)
-- Android Basics: User Input
-- Android Basics: Multiple App Screens
-- Android Basics: Networking
-- Android Basics: Data Storage
+2. Android Basics: User Input
+3. Android Basics: Multiple App Screens
+4. Android Basics: Networking
+5. Android Basics: Data Storage
 
 Website -https://www.udacity.com/course/android-basics-user-interface--ud834
 
